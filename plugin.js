@@ -19,7 +19,7 @@
 			editor.addCommand( 'pagebreakcode', CKEDITOR.plugins.pagebreakcodeCmd );
 
 			editor.ui.addButton && editor.ui.addButton( 'PageBreakCode', {
-				label: editor.lang.pagebreakcode.toolbar,
+				label: editor.lang.pagebreakcode.label,
 				command: 'pagebreakcode'
 			});
 		}

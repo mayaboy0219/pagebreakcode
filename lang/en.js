@@ -1,9 +1,9 @@
 /*
-Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
-For licensing, see LICENSE.md or http://ckeditor.com/license
-*/
+ * PageBreakCode Plugin for CKEditor (https://github.com/mayaboy0219/pagebreakcode)
+ * Created by omdriver.com - Wang Zhuo - 11. May 2016
+ * Licensed under the terms of GPL, LGPL and MPL licenses.
+ */
 CKEDITOR.plugins.setLang( 'pagebreakcode', 'en', {
-	alt: 'Page Break Code',
-	toolbar: 'Insert Page Break Code',
+	label: 'Insert Page Break Code',
 	subtitle: 'Subtitle'
 } );
